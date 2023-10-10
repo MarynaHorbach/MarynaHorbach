@@ -1,6 +1,8 @@
 ## Maryna Horbach
 
  Applied Mathematics and Computer Science, HSE University (Moscow, Russia) | 2021-2025
+
+ 
  LinkedIn:https://www.linkedin.com/in/horbachmp/
 
 

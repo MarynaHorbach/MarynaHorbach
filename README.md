@@ -1,8 +1,7 @@
-## Maryna Horbach | Minsk (Belarus), Moscow (Russia).
+## Maryna Horbach
 
  Applied Mathematics and Computer Science, HSE University (Moscow, Russia) | 2021-2025
-
- BSU Lyceum (Minsk, Belarus) | 2019-2020
+ LinkedIn:https://www.linkedin.com/in/horbachmp/
 
 
 ### Skills and Tools:
